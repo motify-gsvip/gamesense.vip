@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 21 Apr 2022 20:53:19 at https://bloxsense.pub/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pl, en, *" https://bloxsense.pub/ -O1 "C:\Users\barto\Desktop\sites\bloxsense" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:53:37	Error: 	"Not Found" (404) at link https://bloxsense.pub/static/fonts/fontawesome-webfont.eot?v=4.7.0 (from https://bloxsense.pub/static/css/font-awesome.min.css)
+20:53:37	Error: 	"Not Found" (404) at link https://bloxsense.pub/static/fonts/fontawesome-webfont.eot? (from https://bloxsense.pub/static/css/font-awesome.min.css)
+20:53:37	Error: 	"Not Found" (404) at link https://bloxsense.pub/static/fonts/fontawesome-webfont.woff?v=4.7.0 (from https://bloxsense.pub/static/css/font-awesome.min.css)
+20:53:37	Error: 	"Not Found" (404) at link https://bloxsense.pub/static/fonts/fontawesome-webfont.ttf?v=4.7.0 (from https://bloxsense.pub/static/css/font-awesome.min.css)
+20:53:37	Error: 	"Not Found" (404) at link https://bloxsense.pub/static/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://bloxsense.pub/static/css/font-awesome.min.css)
+20:53:37	Error: 	"Not Found" (404) at link https://bloxsense.pub/static/fonts/glyphicons-halflings-regular.eot (from https://bloxsense.pub/static/css/bootstrap.min.css)
+20:53:37	Error: 	"Not Found" (404) at link https://bloxsense.pub/static/fonts/glyphicons-halflings-regular.eot? (from https://bloxsense.pub/static/css/bootstrap.min.css)
+20:53:37	Error: 	"Not Found" (404) at link https://bloxsense.pub/static/fonts/glyphicons-halflings-regular.woff2 (from https://bloxsense.pub/static/css/bootstrap.min.css)
+20:53:37	Error: 	"Not Found" (404) at link https://bloxsense.pub/static/fonts/glyphicons-halflings-regular.woff (from https://bloxsense.pub/static/css/bootstrap.min.css)
+20:53:37	Error: 	"Not Found" (404) at link https://bloxsense.pub/static/fonts/glyphicons-halflings-regular.ttf (from https://bloxsense.pub/static/css/bootstrap.min.css)
+20:53:37	Error: 	"Not Found" (404) at link https://bloxsense.pub/static/fonts/glyphicons-halflings-regular.svg (from https://bloxsense.pub/static/css/bootstrap.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 21 links scanned, 9 files written (367655 bytes overall) [352204 bytes received at 19566 bytes/sec], 35951 bytes transferred using HTTP compression in 1 files, ratio 30%
+(11 errors, 0 warnings, 0 messages)
